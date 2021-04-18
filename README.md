@@ -55,5 +55,5 @@ Libraries Needed:
 
 Wget, numpy, pandas, re, nltk, hyperopt, sklearn, tensorflow, keras, matplotlib and seaborn.
 
-In case the main function runs an error (though it should be impossible), try to change the file name.
+In case the main function runs an error (though it should be impossible), try to change epoch of training model or the file name.
 
