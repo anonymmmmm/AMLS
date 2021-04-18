@@ -13,39 +13,39 @@ In main.py, "glove.6B.100d.txt", a pre-trained GloVe model is firstly downloaded
 
 After using wget library to download the GloVe model, the AMLS_II_assignment20_21 folder should be like:
 >A  
->
+
 >>A.py
->>
+
 >>A_CNN.py
->>
+
 >>A_Word2vec.py
->>
+
 >>A_lr.py
->>
+
 >B
->
+
 >>B.py
->>
+
 >>B_CNN.py
->>
+
 >>B_Word2vec.py
->>
+
 >>B_lr.py
->>
+
 >Datasets
->
+
 >>SemEval2017-task4-dev.subtask-A.english.INPUT.txt
->>
+
 >>SemEval2017-task4-dev.subtask-BD.english.INPUT.txt
->>
+
 >>SemEval2017-task4-test.subtask-A.english.txt
->>
+
 >>SemEval2017-task4-test.subtask-BD.english.txt
->>
+
 >main.py
->
+
 >glove.6B.100d.txt
->
+
 >README.md
 
 
